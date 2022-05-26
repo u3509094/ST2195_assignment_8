@@ -1,0 +1,43 @@
+,Country 1,Country 2,Export,Import,Net Export
+0,Canada,France,2447,5316,-2869
+1,Canada,Germany,2821,13560,-10739
+2,Canada,Italy,1763,5763,-4000
+3,Canada,Japan,7622,11567,-3945
+4,Canada,United Kingdom,12501,7191,5310
+5,Canada,United States,313178,223080,90098
+6,France,Germany,80076,111454,-31378
+7,France,Italy,35832,43909,-8077
+8,France,Canada,3612,2441,1171
+9,France,Japan,7026,4893,2133
+10,France,United Kingdom,35668,24581,11087
+11,France,United States,36551,31467,5084
+12,Germany,France,114000,79600,34400
+13,Germany,Italy,64300,54900,9400
+14,Germany,Canada,11100,3500,7600
+15,Germany,Japan,19200,15500,3700
+16,Germany,United Kingdom,98700,44800,53900
+17,Germany,United States,126900,50000,76900
+18,Italy,France,47308,35674,11634
+19,Italy,Germany,56301,63865,-7564
+20,Italy,Canada,4075,1620,2455
+21,Italy,Japan,6106,3459,2647
+22,Italy,United Kingdom,24783,12061,12722
+23,Italy,United States,39875,15750,24125
+24,Japan,France,5262,9480,-4218
+25,Japan,Germany,16234,20276,-4042
+26,Japan,Italy,3594,7522,-3928
+27,Japan,Canada,7740,9164,-1424
+28,Japan,United Kingdom,10729,6511,4218
+29,Japan,United States,126372,68322,58050
+30,United Kingdom,France,27125,36211,-9086
+31,United Kingdom,Germany,46530,92722,-46192
+32,United Kingdom,Italy,12842,24062,-11220
+33,United Kingdom,Canada,5824,13317,-7493
+34,United Kingdom,Japan,6458,9533,-3075
+35,United Kingdom,United States,66995,57585,9410
+36,United States,France,31500,47800,-16300
+37,United States,Germany,49900,124100,-74200
+38,United States,Italy,16300,44000,-27700
+39,United States,Canada,280000,295200,-15200
+40,United States,Japan,62500,131100,-68600
+41,United States,United Kingdom,56400,57800,-1400
